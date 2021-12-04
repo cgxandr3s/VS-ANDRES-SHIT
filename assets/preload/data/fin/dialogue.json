@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "andres-dia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "man i have not practiced my voice in 5 years  deadass im not capping"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you still good at singing though"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "andres-dia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "cool shit cool shit\\nlets sing a bit faster and better"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ight"
+		}
+	]
+}

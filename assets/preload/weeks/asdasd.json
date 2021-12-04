@@ -1,0 +1,57 @@
+{
+	"storyName": "ANDRES NOT ANDERS",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekCGX",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"ref",
+			"cgx",
+			[
+				146,
+				120,
+				220
+			]
+		],
+		[
+			"kromer",
+			"cgx",
+			[
+				226,
+				253,
+				155
+			]
+		],
+		[
+			"endless",
+			"demonfever",
+			[
+				255,
+				13,
+				253
+			]
+		],
+		[
+			"talladega",
+			"dami",
+			[
+				46,
+				135,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "ANDRESTUT"
+}

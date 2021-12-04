@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "andres-dia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lets go a bit faster bro"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "that was already fast!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "andres-dia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "skill issue bruh"
+		}
+	]
+}

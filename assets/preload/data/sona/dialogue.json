@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "andres-dia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "who tf are you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "im boyfriend bitch"
+		},
+		{
+			"speed": 0.5,
+			"portrait": "andres-dia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "okokokokokokokokokokokokokokokokcoolcool"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lets rap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "andres-dia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sure"
+		}
+	]
+}

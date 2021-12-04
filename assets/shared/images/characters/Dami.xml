@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Dami.png"><SubTexture name="dami idle0000" x="0" y="0" width="1176" height="1354" frameX="0" frameY="0" frameWidth="1176" frameHeight="1354" />
+<SubTexture name="dami idle0001" x="1176" y="0" width="1176" height="1354" frameX="0" frameY="0" frameWidth="1176" frameHeight="1354" />
+<SubTexture name="dami idle0002" x="2352" y="0" width="1176" height="1354" frameX="0" frameY="0" frameWidth="1176" frameHeight="1354" />
+<SubTexture name="dami idle0003" x="3528" y="0" width="1176" height="1354" frameX="0" frameY="0" frameWidth="1176" frameHeight="1354" />
+<SubTexture name="dami up0000" x="0" y="1354" width="1176" height="1354" frameX="0" frameY="0" frameWidth="1176" frameHeight="1354" />
+<SubTexture name="dami up0001" x="1176" y="1354" width="1176" height="1354" frameX="0" frameY="0" frameWidth="1176" frameHeight="1354" />
+<SubTexture name="dami up0002" x="2352" y="1354" width="1176" height="1354" frameX="0" frameY="0" frameWidth="1176" frameHeight="1354" />
+<SubTexture name="dami up0003" x="3528" y="1354" width="1176" height="1354" frameX="0" frameY="0" frameWidth="1176" frameHeight="1354" />
+<SubTexture name="dami left0000" x="0" y="2708" width="1176" height="1354" frameX="0" frameY="0" frameWidth="1176" frameHeight="1354" />
+<SubTexture name="dami left0001" x="1176" y="2708" width="1176" height="1354" frameX="0" frameY="0" frameWidth="1176" frameHeight="1354" />
+<SubTexture name="dami left0002" x="2352" y="2708" width="1176" height="1354" frameX="0" frameY="0" frameWidth="1176" frameHeight="1354" />
+<SubTexture name="dami left0003" x="3528" y="2708" width="1176" height="1354" frameX="0" frameY="0" frameWidth="1176" frameHeight="1354" />
+<SubTexture name="dami down0000" x="0" y="4062" width="1176" height="1354" frameX="0" frameY="0" frameWidth="1176" frameHeight="1354" />
+<SubTexture name="dami down0001" x="1176" y="4062" width="1176" height="1354" frameX="0" frameY="0" frameWidth="1176" frameHeight="1354" />
+<SubTexture name="dami down0002" x="2352" y="4062" width="1176" height="1354" frameX="0" frameY="0" frameWidth="1176" frameHeight="1354" />
+<SubTexture name="dami down0003" x="3528" y="4062" width="1176" height="1354" frameX="0" frameY="0" frameWidth="1176" frameHeight="1354" />
+<SubTexture name="dami right0004" x="0" y="5416" width="1176" height="1354" frameX="0" frameY="0" frameWidth="1176" frameHeight="1354" />
+<SubTexture name="dami right0005" x="1176" y="5416" width="1176" height="1354" frameX="0" frameY="0" frameWidth="1176" frameHeight="1354" />
+<SubTexture name="dami right0006" x="2352" y="5416" width="1176" height="1354" frameX="0" frameY="0" frameWidth="1176" frameHeight="1354" />
+<SubTexture name="dami right0007" x="3528" y="5416" width="1176" height="1354" frameX="0" frameY="0" frameWidth="1176" frameHeight="1354" />
+</TextureAtlas>

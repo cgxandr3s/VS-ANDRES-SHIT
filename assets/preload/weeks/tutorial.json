@@ -1,0 +1,48 @@
+{
+	"storyName": "Andres ENJOYERs :), Anders fans  >:(",
+	"hideFreeplay": false,
+	"weekBackground": "cgx",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"sona",
+			"cgx",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"fin",
+			"cgx",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"cgx",
+			"cgx",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "andres"
+}
